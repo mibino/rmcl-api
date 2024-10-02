@@ -1,5 +1,5 @@
 {
     "banned-list": [
-    { "username":"菜鸟教程" , "reason":"测试封禁系统" }
+    { "username":"bantest" , "reason":"测试封禁系统" }
     ]
 }
